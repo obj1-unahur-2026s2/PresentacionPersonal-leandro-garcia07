@@ -9,6 +9,7 @@
 
 
 ### Otra Información
-- Este es mi primer contacto con github
+- Este no es mi primer contacto con github pero pareciera que si
 - Tengo un gato negro que se llama Odin
 - Me costo bastante vincular git y github porque tenia una cuenta vieja
+- El ppt de la profesora Ailin tiene 78 slides, no 80 
